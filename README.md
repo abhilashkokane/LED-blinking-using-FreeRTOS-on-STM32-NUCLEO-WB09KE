@@ -1,5 +1,4 @@
 # LED-blinking-using-FreeRTOS-on-STM32-NUCLEO-WB09KE
-# LED Blinking using FreeRTOS on STM32 NUCLEO-WB09KE
 
 ## Project Overview
 This project demonstrates the use of **FreeRTOS** on the **STM32 NUCLEO-WB09KE** development board to implement a basic multitasking system where multiple LEDs are blinked at different rates. The project also integrates **Segger SystemView** for runtime analysis, providing insights into CPU usage, task execution times and system tick behavior.
