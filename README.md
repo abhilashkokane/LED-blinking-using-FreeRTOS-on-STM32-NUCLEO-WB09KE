@@ -38,8 +38,3 @@ To evaluate system performance, **Segger SystemView** is integrated for real-tim
 - **STM32 NUCLEO-WB09KE** – Target development board
 
 ---
-
-## 📷 Demo
-(Add screenshot or gif of LEDs blinking + SystemView trace if available)
-
----
