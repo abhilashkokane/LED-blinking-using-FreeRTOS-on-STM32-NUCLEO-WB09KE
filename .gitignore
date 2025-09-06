@@ -1,0 +1,29 @@
+# Build folders
+/Debug/
+/Release/
+/build/
+
+# Object and binary files
+*.o
+*.d
+*.elf
+*.axf
+*.bin
+*.hex
+*.map
+*.lst
+
+# STM32CubeIDE / Eclipse user files (don't track)
+/.settings/
+/.metadata/
+.recommenders/
+*.launch
+*.pydevproject
+*.cproject.user
+*.project.user
+
+# Editor / OS files
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
